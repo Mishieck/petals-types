@@ -1,2 +1,3 @@
 # petals-types
-The TypeScript type definitions for Petals API.
+
+Coming soon: The TypeScript type definitions for Petals API.
