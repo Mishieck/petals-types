@@ -68,6 +68,12 @@ export type GenerateSuccessResponse = HttpSuccessResponse & {
    * @type {boolean}
    */
   stop: boolean;
+
+  /**
+   * The number of tokens in the response.
+   * @type {number}
+   */
+  token_count: number;
 };
 
 /**
