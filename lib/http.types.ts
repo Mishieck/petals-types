@@ -73,7 +73,7 @@ export type HttpPostRequest = Partial<{
  * @property {string} outputs - The generated content.
  */
 export type HttpSuccessResponse = {
-  ok: 'true';
+  ok: true;
   outputs: string;
 };
 

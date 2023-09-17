@@ -6,6 +6,6 @@
  * @property {string} traceback - The Python traceback.
  */
 export type FailureResponse = {
-  ok: 'false';
+  ok: false;
   traceback: string;
 };
